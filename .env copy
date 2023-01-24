@@ -1,0 +1,7 @@
+PORT=
+
+EMAIL=add_sender_email
+PASSWORD=add_sender_pass
+
+RCV_ONE=add_receiver_email
+RCV_TWO=add_receiver_email2
